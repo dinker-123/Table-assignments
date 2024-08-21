@@ -1,0 +1,132 @@
+[
+  {
+      "rank": 1,
+      "name": "IIT Madras - Indian Institute of Technology (IITM), Chennai",
+      "fees": 209550,
+      "placement": {
+          "averagePackage": 2148000,
+          "highestPackage": 19800000
+      },
+      "userReviewRating": 8.6,
+      "ranking": "#3/131 in India",
+      "featured": false,
+      "logoUrl":"https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/120px-IIT_Madras_Logo.svg.png?20100322035646"
+  },
+  {
+      "rank": 2,
+      "name": "IIT Delhi - Indian Institute of Technology (IITD), New Delhi",
+      "fees": 254650,
+      "placement": {
+          "averagePackage": 2582000,
+          "highestPackage": 20000000
+      },
+      "userReviewRating": 8.7,
+      "ranking": "#1/35 in India",
+      "featured": false,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/330px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+      "rank": 3,
+      "name": "Parul University, Vadodara",
+      "fees": 149000,
+      "placement": {
+          "averagePackage": 400000,
+          "highestPackage": 3000000
+      },
+      "userReviewRating": 8.1,
+      "ranking": "#99/147 in India",
+      "featured": true,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Parul_University_logo.svg/1920px-Parul_University_logo.svg.png"
+  },
+  {
+      "rank": 4,
+      "name": "IIT Bombay - Indian Institute of Technology (IITB), Mumbai",
+      "fees": 229300,
+      "placement": {
+          "averagePackage": 2182000,
+          "highestPackage": 36700000
+      },
+      "userReviewRating": 8.8,
+      "ranking": "#2/35 in India",
+      "featured": false,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/225px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+      "rank": 5,
+      "name": "BITS Pilani, Pilani",
+      "fees": 300000,
+      "placement": {
+          "averagePackage": 1800000,
+          "highestPackage": 32000000
+      },
+      "userReviewRating": 8.4,
+      "ranking": "#4/147 in India",
+      "featured": false,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/BITS_Pilani-Logo.svg/1024px-BITS_Pilani-Logo.svg.png"
+  },
+  {
+      "rank": 6,
+      "name": "NIT Trichy, Tamil Nadu",
+      "fees": 250000,
+      "placement": {
+          "averagePackage": 1400000,
+          "highestPackage": 22000000
+      },
+      "userReviewRating": 8.2,
+      "ranking": "#5/131 in India",
+      "featured": false,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8b/National_Institute_of_Technology_Trichy_Logo.png"
+  },
+  {
+      "rank": 7,
+      "name": "VIT Vellore, Tamil Nadu",
+      "fees": 195000,
+      "placement": {
+          "averagePackage": 700000,
+          "highestPackage": 15000000
+      },
+      "userReviewRating": 7.8,
+      "ranking": "#10/147 in India",
+      "featured": false,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Vellore_Institute_of_Technology_seal_2017.svg/800px-Vellore_Institute_of_Technology_seal_2017.svg.png"
+  },
+  {
+      "rank": 8,
+      "name": "SRM Institute of Science and Technology, Chennai",
+      "fees": 275000,
+      "placement": {
+          "averagePackage": 800000,
+          "highestPackage": 18000000
+      },
+      "userReviewRating": 7.9,
+      "ranking": "#8/131 in India",
+      "featured": false,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/fe/Srmseal.png"
+  },
+  {
+      "rank": 9,
+      "name": "Amity University, Noida",
+      "fees": 320000,
+      "placement": {
+          "averagePackage": 600000,
+          "highestPackage": 12000000
+      },
+      "userReviewRating": 7.5,
+      "ranking": "#20/147 in India",
+      "featured": false,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/ff/Amity_University_logo.png"
+  },
+  {
+      "rank": 10,
+      "name": "Manipal Institute of Technology, Manipal",
+      "fees": 250000,
+      "placement": {
+          "averagePackage": 700000,
+          "highestPackage": 15000000
+      },
+      "userReviewRating": 7.7,
+      "ranking": "#15/131 in India",
+      "featured": true,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/be/Manipal_Tech_new_logo.png"
+  }
+]

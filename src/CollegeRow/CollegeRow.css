@@ -1,0 +1,106 @@
+/* Container to center content */
+.collegeNameContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center horizontally */
+  justify-content: center; /* Center vertically if desired */
+  width: 100%;
+  height: 23vh;
+}
+
+/* Centering the college name and logo */
+.collegeName {
+  display: flex;
+  align-items: center;
+  text-align: center; /* Center text within the container */
+}
+
+/* Centering the logo within the collegeName */
+.collegeLogo {
+  width: 40px;
+  height: auto;
+  margin-right: 10px;
+}
+
+/* Other styles */
+.featured {
+  background-color: #fff3cd; 
+}
+
+.featured td {
+  font-weight: bold;
+  color: #856404;
+}
+
+.par {
+  color: rgb(74, 71, 71);
+  font-size: 0.7rem;
+  font-weight: 520;
+}
+
+.fees {
+  color: orange;
+  font-size: 0.7rem;
+}
+
+.rankOption {
+  color: rgb(196, 105, 44);
+  background-color: rgb(238, 229, 212);
+  border-radius: 50px;
+  font-size: 0.6rem;
+  text-align: center;
+  padding: 0.2rem;
+}
+
+.price {
+  color: rgb(4, 181, 142);
+  font-size: 0.9rem;
+}
+
+.collegePrice {
+  font-size: 0.9rem;
+}
+
+.icon {
+  color: orange;
+  font-size: 0.5rem;
+  margin-right: 0.5rem;
+  margin-bottom: 0.1rem;
+}
+
+.collegeNameText {
+  color: rgb(111, 211, 234);
+  font-weight: 600;
+  text-align: left;
+}
+
+.collegeLocation {
+  color: rgb(74, 71, 71);
+  font-size: 0.7rem;
+  font-weight: 520;
+  margin-top: 3px;
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+}
+
+.actions p {
+  margin:0;
+  font-size: 0.8rem;
+  color: #007bff;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-left: 5rem;
+}
+
+.applyNow {
+  color: orange;
+  font-weight: bold;
+}
+
+.downloadBrochure {
+  color: rgb(4, 181, 142);
+}
